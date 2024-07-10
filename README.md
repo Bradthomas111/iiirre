@@ -6,4 +6,4 @@ This project contains a simple HTML page that redirects users to a specified URL
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Bradthomas111/iiirre
+   git clone https://github.com/Bradthomas111/iiirre.git
